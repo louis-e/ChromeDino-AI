@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\ChromeDinoKI\ChromeDinoKI\bin\Debug\ChromeDinoKI.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\ChromeDinoKI\ChromeDinoKI\bin\Debug\ChromeDinoKI.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\ChromeDinoKI\ChromeDinoKI\bin\Debug\ChromeDinoKI.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\ChromeDinoKI\ChromeDinoKI\obj\Debug\ChromeDinoKI.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\ChromeDinoKI\ChromeDinoKI\obj\Debug\ChromeDinoKI.Form1.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\ChromeDinoKI\ChromeDinoKI\obj\Debug\ChromeDinoKI.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\ChromeDinoKI\ChromeDinoKI\obj\Debug\ChromeDinoKI.csproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\ChromeDinoKI\ChromeDinoKI\obj\Debug\ChromeDinoKI.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\ChromeDinoKI\ChromeDinoKI\obj\Debug\ChromeDinoKI.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\ChromeDinoKI\ChromeDinoKI\obj\Debug\ChromeDinoKI.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChromeDinoKI", "ChromeDinoKI\ChromeDinoKI.csproj", "{CF82E7B8-4002-4320-8346-30ADA1FAF4BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF82E7B8-4002-4320-8346-30ADA1FAF4BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF82E7B8-4002-4320-8346-30ADA1FAF4BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF82E7B8-4002-4320-8346-30ADA1FAF4BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF82E7B8-4002-4320-8346-30ADA1FAF4BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40A6D5BD-739D-4E80-B4FE-5091318515BD}
+	EndGlobalSection
+EndGlobal
