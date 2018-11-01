@@ -11,7 +11,7 @@ Folgendes wurden verwendet:<br />
 <br />
 -Umsetzung:<br />
 In beiden Sprachen wurde der selbe Algorithmus verwendet. Es gibt keinerlei Interaktionen mit der Website. Um ein Hindernis zu erkennen, liest das Programm die Pixelfarbe der geld markierten Stelle im unten abgebildetem Bild aus:
-![Alt text](https://github.com/louis-e/ChromeDino-AI/ki1.png?raw=true "Die Stelle der auszulesenden Pixel sind gelb markiert")
+![Alt text](https://github.com/louis-e/ChromeDino-AI/ki1.png "Die Stelle der auszulesenden Pixel sind gelb markiert")
 <br />
 <br />
 <br />
