@@ -25,4 +25,15 @@ Diese dienen der Erkennung des "Game Overs". Sprich: Wenn das Spiel zu Ende ist,
 <br />
 <br />
 <br />
--Performance
+
+In the following documentation we show you the process of the automated gameplay of the Chrome Dino Runner game. We used:
+-http://www.trex-game.skipser.com/ ........ clone of the game
+-Visual Basic .Net & C# .................................... The project was written in both programming languages. <br />
+<br />
+<br />
+<br />
+-Implementation:
+Both languages are using the same algorithm. There are no interactions with the website to detect the obstacles. To detect an obstacle, the program reads the color of the pixel:
+![Alt text](https://github.com/louis-e/ChromeDino-AI/blob/master/ki1.PNG "Die Stelle der auszulesenden Pixel sind gelb markiert") <br />
+If the color has the value ", A = 255, R = 83, G = 83, B = 83]", which corresponds to the color of the cacti, an obstacle is recognized. Since the yellow marked XY coordinates vary depending on the size of the monitor, the function of the current project must be completed without editing. In order to be able to use the project flawlessly, the coordinates of the obstacles, but also a pixel coordinate in the lower picture marked point in the code must be edited. Alt text
+These are used to recognize the "Game Overs". Say: When the game is over, the AI ​​has made a mistake, the program detects the end and starts a new attempt.
