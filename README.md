@@ -7,7 +7,7 @@
 In der folgenden Dokumentation zeige ich den Ablauf der Vorgangsweise für den automatisierten Spielablauf des Chrome Dino Runner Spieles.
 Folgendes wurden verwendet:<br />
 -http://www.trex-game.skipser.com/ ........Klon des Spieles<br />
--Visual Basic .Net & C#....................................Das Projekt wurde in beiden Programmiersprachen umgesetzt. Die Performance beider Sprachen sing gleich<br />
+-Visual Basic .Net & C#....................................Das Projekt wurde in beiden Programmiersprachen umgesetzt. Die Performance beider Sprachen sind gleich<br />
 <br />
 <br />
 <br />
