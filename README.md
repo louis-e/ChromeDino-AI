@@ -2,6 +2,8 @@
  Documentation about the Chrome Dino Runner AI written in Visual Basic .Net and C#<br />
 <br />
 <br />
+...................GERMAN/DEUTSCH...................
+<br />
 In der folgenden Dokumentation zeige ich den Ablauf der Vorgangsweise für den automatisierten Spielablauf des Chrome Dino Runner Spieles.
 Folgendes wurden verwendet:<br />
 -http://www.trex-game.skipser.com/ ........Klon des Spieles<br />
@@ -21,9 +23,7 @@ Diese dienen der Erkennung des "Game Overs". Sprich: Wenn das Spiel zu Ende ist,
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
+...................ENGLISH/ENGLISCH...................
 <br />
 In the following documentation we show you the process of the automated gameplay of the Chrome Dino Runner game. We used:<br />
 -http://www.trex-game.skipser.com/ ........ clone of the game<br />
