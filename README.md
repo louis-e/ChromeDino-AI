@@ -28,7 +28,7 @@ Diese dienen der Erkennung des "Game Overs". Sprich: Wenn das Spiel zu Ende ist,
 
 In the following documentation we show you the process of the automated gameplay of the Chrome Dino Runner game. We used:<br />
 -http://www.trex-game.skipser.com/ ........ clone of the game<br />
--Visual Basic .Net & C# .................................... The project was written in both programming languages. <br />
+-Visual Basic .Net & C# ..................................... The project was written in both programming languages. <br />
 <br />
 <br />
 <br />
