@@ -23,6 +23,7 @@ Diese dienen der Erkennung des "Game Overs". Sprich: Wenn das Spiel zu Ende ist,
 <br />
 <br />
 <br />
+<br />
 ...................ENGLISH/ENGLISCH...................
 <br />
 In the following documentation we show you the process of the automated gameplay of the Chrome Dino Runner game. We used:<br />
