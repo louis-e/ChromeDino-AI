@@ -27,12 +27,12 @@ Diese dienen der Erkennung des "Game Overs". Sprich: Wenn das Spiel zu Ende ist,
 <br />
 In the following documentation we show you the process of the automated gameplay of the Chrome Dino Runner game. We used:<br />
 -http://www.trex-game.skipser.com/ ........ clone of the game<br />
--Visual Basic .Net & C# ..................................... The project was written in both programming languages. <br />
+-Visual Basic .Net & C# ....................................... The project was written in both programming languages. <br />
 <br />
 <br />
 <br />
 -Implementation:<br />
-Both languages are using the same algorithm. There are no interactions with the website to detect the obstacles. To detect an obstacle, the program reads the color of the pixel:
+Both languages are using the same algorithm. There are no interactions with the website to detect the obstacles. To detect an obstacle, the program reads the color of the yellow marked pixel:
 ![Alt text](https://github.com/louis-e/ChromeDino-AI/blob/master/ki1.PNG "The location of the pixels to be read are marked in yellow") <br />
 If the color has the value "[A=255, R=83, G=83, B=83]", which is the color of the cactus, an obstacle is detected. Since the yellow XY coordinates vary depending on the monitor size, the function of the current project must be excluded without editing. 
 In order to be able to use the project without error, the coordinates of the obstacles and a pixel coordinate in the marked area, which can be seen below, must be edited in the code.
