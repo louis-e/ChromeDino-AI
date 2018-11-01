@@ -37,5 +37,5 @@ Both languages are using the same algorithm. There are no interactions with the 
 ![Alt text](https://github.com/louis-e/ChromeDino-AI/blob/master/ki1.PNG "The location of the pixels to be read are marked in yellow") <br />
 If the color has the value "[A=255, R=83, G=83, B=83]", which is the color of the cactus, an obstacle is detected. Since the yellow XY coordinates vary depending on the monitor size, the function of the current project must be excluded without editing. 
 In order to be able to use the project without error, the coordinates of the obstacles and a pixel coordinate in the marked area, which can be seen below, must be edited in the code.
-![Alt text](https://github.com/louis-e/ChromeDino-AI/blob/master/ki2.PNG "Die Stelle der auszulesenden Pixel sind gelb markiert") <br />
+![Alt text](https://github.com/louis-e/ChromeDino-AI/blob/master/ki2.PNG "The location of the pixels to be read are marked in yellow") <br />
 These are used to recognize the "Game Overs". So, when the game is over, the program detects the end and starts a new attempt.
