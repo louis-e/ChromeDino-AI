@@ -40,4 +40,4 @@ If the color has the value "[A=255, R=83, G=83, B=83]", which is the color of th
 In order to be able to use the project without error, the coordinates of the obstacles and a pixel coordinate in the marked area, which can be seen below, must be edited in the code.
 ![Alt text](https://github.com/louis-e/ChromeDino-AI/blob/master/ki2.PNG "The location of the pixels to be read are marked in yellow") <br />
 These are used to recognize the "Game Overs". So, when the game is over, the program detects the end and starts a new attempt.<br />
-[This video shows a passage of the C # version](https://www.youtube.com/watch?v=0_pkAlh1k1Y)<br />
+[This video shows a passage of the C# version](https://www.youtube.com/watch?v=0_pkAlh1k1Y)<br />
