@@ -17,7 +17,9 @@ In beiden Sprachen wurde der selbe Algorithmus verwendet. Es gibt bis auf das Se
 Hat die Farbe den Wert "[A=255, R=83, G=83, B=83]", welches der Farbe der Kakteen entspricht, wird ein Hindernis erkannt.
 Da die gelb markierten XY Koordinaten je nach Monitorgröße variieren, ist die Funktion des aktuellen Projektes ohne Bearbeitung auszuschließen. Um das Projekt einwandfrei benutzen zu können, müssen aber nicht nur die Koordinaten der Hindernisse, sondern auch eine Pixelkoordinate der im unteren Bild markierten Stelle im Code editiert werden.<br />
 ![Alt text](https://github.com/louis-e/ChromeDino-AI/blob/master/ki2.PNG "Die Stelle der auszulesenden Pixel sind gelb markiert") <br />
-Diese dienen der Erkennung des "Game Overs". Sprich: Wenn das Spiel zu Ende ist, da die KI einen Fehler gemacht hat, erkennt das Programm das Spiel Ende und startet einen neuen Versuch.
+Diese dienen der Erkennung des "Game Overs". Sprich: Wenn das Spiel zu Ende ist, da die KI einen Fehler gemacht hat, erkennt das Programm das Spiel Ende und startet einen neuen Versuch. <br />
+Im folgenden Video ist ein Durchgang der C# Version zu sehen:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0_pkAlh1k1Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br />
 <br />
 <br />
 <br />
@@ -38,4 +40,6 @@ Both languages are using the same algorithm. There are no interactions with the 
 If the color has the value "[A=255, R=83, G=83, B=83]", which is the color of the cactus, an obstacle is detected. Since the yellow XY coordinates vary depending on the monitor size, the function of the current project must be excluded without editing. 
 In order to be able to use the project without error, the coordinates of the obstacles and a pixel coordinate in the marked area, which can be seen below, must be edited in the code.
 ![Alt text](https://github.com/louis-e/ChromeDino-AI/blob/master/ki2.PNG "The location of the pixels to be read are marked in yellow") <br />
-These are used to recognize the "Game Overs". So, when the game is over, the program detects the end and starts a new attempt.
+These are used to recognize the "Game Overs". So, when the game is over, the program detects the end and starts a new attempt.<br />
+The following video shows a passage of the C # version:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0_pkAlh1k1Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br />
