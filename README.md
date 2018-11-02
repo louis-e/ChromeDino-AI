@@ -19,7 +19,7 @@ Da die gelb markierten XY Koordinaten je nach Monitorgröße variieren, ist die 
 ![Alt text](https://github.com/louis-e/ChromeDino-AI/blob/master/ki2.PNG "Die Stelle der auszulesenden Pixel sind gelb markiert") <br />
 Diese dienen der Erkennung des "Game Overs". Sprich: Wenn das Spiel zu Ende ist, da die KI einen Fehler gemacht hat, erkennt das Programm das Spiel Ende und startet einen neuen Versuch. <br />
 Im folgenden Video ist ein Durchgang der C# Version zu sehen:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0_pkAlh1k1Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br />
+[ytlink](https://www.youtube.com/embed/0_pkAlh1k1Y)<br />
 <br />
 <br />
 <br />
