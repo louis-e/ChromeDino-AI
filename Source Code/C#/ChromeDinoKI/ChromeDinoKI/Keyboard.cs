@@ -3,6 +3,7 @@ using System.Windows.Forms;
 
 namespace ChromeDinoKI
 {
+    //Klasse für die zwei Methoden "HoldKey" und "ReleaseKey", welche für das gedrückt halten einer Taste zuständig sind
     public class Keyboard
     {
         public Keyboard()
