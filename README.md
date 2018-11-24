@@ -21,6 +21,7 @@ Diese dienen der Erkennung des "Game Overs". Sprich: Wenn das Spiel zu Ende ist,
 [In diesem Video ist ein Durchgang der C# Version zu sehen](https://www.youtube.com/watch?v=0_pkAlh1k1Y)<br />
 <br />
 <br />
+Der C# Code ist ausführlich beschrieben.
 <br />
 <br />
 <br />
@@ -41,3 +42,6 @@ In order to be able to use the project without error, the coordinates of the obs
 ![Alt text](https://github.com/louis-e/ChromeDino-AI/blob/master/ki2.PNG "The location of the pixels to be read are marked in yellow") <br />
 These are used to recognize the "Game Overs". So, when the game is over, the program detects the end and starts a new attempt.<br />
 [This video shows a passage of the C# version](https://www.youtube.com/watch?v=0_pkAlh1k1Y)<br />
+<br />
+<br />
+The C # code is described in detail.
