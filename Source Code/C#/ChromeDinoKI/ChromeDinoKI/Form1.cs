@@ -104,29 +104,9 @@ namespace ChromeDinoKI
         private void Timer1_Tick_1(object sender, EventArgs e)
         {
             AskForpixel(512, 387);
-            AskForpixel(512, 387);
-            AskForpixel(513, 387);
             AskForpixel(513, 387);
             AskForpixel(514, 387);
-            AskForpixel(514, 387);
             AskForpixel(515, 387);
-            AskForpixel(515, 387);
-            AskForpixel(516, 387);
-            AskForpixel(516, 387);
-            AskForpixel(517, 387);
-            AskForpixel(517, 387);
-            AskForpixel(518, 387);
-            AskForpixel(518, 387);
-            AskForpixel(519, 387);
-            AskForpixel(519, 387);
-            AskForpixel(520, 387);
-            AskForpixel(520, 387);
-            AskForpixel(521, 387);
-            AskForpixel(521, 387);
-            AskForpixel(522, 387);
-            AskForpixel(522, 387);
-            AskForpixel(523, 387);
-            AskForpixel(523, 387);
         }
 
         //Fragt mit dem Interval von 5000ms (5s) das Spiel Ende ab
