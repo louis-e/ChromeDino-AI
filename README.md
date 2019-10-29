@@ -44,4 +44,4 @@ These are used to recognize the "Game Overs". So, when the game is over, the pro
 [This video shows a passage of the C# version](https://www.youtube.com/watch?v=0_pkAlh1k1Y)<br />
 <br />
 <br />
-The C # code is described in detail.
+The C# code is described in detail.
